@@ -18,9 +18,9 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="banner-one__content">
-                        <p class="banner-one__tag-line">Welcome to {{$siteName}} <a href="{{route('login')}}">Join Now</a></p>
-                        <h3>We help achieve <br> financial goals</h3>
-                        <p>We are committed to providing our customers with exceptional financial service <br> while offering our
+                        <p class="" style="font-weight: bolder;font-size: 20px;">Welcome to {{$siteName}} <a href="{{route('login')}}">Join Now</a></p>
+                        <h3 style="font-weight: bolder;">We help achieve <br> financial goals</h3>
+                        <p style="font-weight: bolder;font-size: 20px;">>We are committed to providing our customers with exceptional financial service <br> while offering our
                             employees
                             the best training.</p>
                         <a href="{{route('login')}}" class="thm-btn banner-one__btn scroll-to-target">Get Started</a><!-- /.thm-btn banner-one__btn -->
