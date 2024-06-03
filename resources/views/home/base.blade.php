@@ -75,7 +75,7 @@
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="main-nav__logo-box">
                     <a href="{{url('/')}}" class="main-nav__logo">
-                        <img src="{{asset('home/images/'.$web->logo)}}" style="width: 200px;" alt="Awesome Image">
+                        <img src="{{asset('home/images/'.$web->logo)}}" style="width: 150px;" alt="Awesome Image">
                     </a>
 
                     <div id="google_translate_element"></div>
