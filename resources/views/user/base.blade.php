@@ -323,9 +323,10 @@
 </script>
 @stack('js')
 <!-- Smartsupp Live Chat script -->
+<!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
     var _smartsupp = _smartsupp || {};
-    _smartsupp.key = 'b8d6861828ca1062d1d43c3688c3d2d8613c13b7';
+    _smartsupp.key = '4ac08201878b95e8e38290b4d92a832fdb08dd42';
     window.smartsupp||(function(d) {
         var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
         s=d.getElementsByTagName('script')[0];c=d.createElement('script');
