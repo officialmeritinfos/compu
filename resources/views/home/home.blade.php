@@ -2,7 +2,7 @@
 @section('content')
 
 
-    <section class="banner-one" id="banner" style="background-image: url({{asset('home/lassets/images/background/1.webp')}});">
+    <section class="banner-one" id="banner" style="background-image: url({{asset('home/lassets/images/background/1.avif')}});">
 
         <img src="{{asset('home/lassets/images/shapes/banner-shapes-1-1.png')}}" alt="" class="banner-one__shape-1">
         <img src="{{asset('home/lassets/images/shapes/banner-shapes-1-2.png')}}" alt="" class="banner-one__shape-2">
@@ -14,13 +14,13 @@
 
         <div class="container">
             <img src="{{asset('home/lassets/images/shapes/banner-shapes-1-3.png')}}" alt="" class="banner-one__shape-moc-1">
-            <img src="{{asset('home/img/trading1.png')}}" alt="" class="banner-one__moc">
+            <img src="{{asset('home/img/trading1.gif')}}" alt="" class="banner-one__moc" style="width: 300px;">
             <div class="row">
                 <div class="col-lg-7">
                     <div class="banner-one__content">
                         <p class="" style="font-weight: bolder;font-size: 20px;">Welcome to {{$siteName}} <a href="{{route('login')}}">Join Now</a></p>
                         <h3 style="font-weight: bolder;">We help achieve <br> financial goals</h3>
-                        <p style="font-weight: bolder;font-size: 20px;">>We are committed to providing our customers with exceptional financial service <br> while offering our
+                        <p style="font-weight: bolder;font-size: 20px;">We are committed to providing our customers with exceptional financial service <br> while offering our
                             employees
                             the best training.</p>
                         <a href="{{route('login')}}" class="thm-btn banner-one__btn scroll-to-target">Get Started</a><!-- /.thm-btn banner-one__btn -->
@@ -110,7 +110,7 @@
         <img src="{{asset('home/lassets/images/shapes/cta-1-shape-3.png')}}" alt="" class="cta-three__shape-3">
         <div class="container">
             <img src="{{asset('home/lassets/images/shapes/cta-1-shape-1.png')}}" alt="" class="cta-three__shape-1">
-            <img src="{{asset('home/img/trading2.png')}}" alt="" class="cta-three__moc">
+            <img src="{{asset('home/img/trading.png')}}" alt="" class="cta-three__moc" style="width: 500px;">
             <div class="row justify-content-end">
                 <div class="col-lg-6">
                     <div class="cta-three__content">
@@ -203,7 +203,7 @@
         <img src="{{asset('home/lassets/images/shapes/cta-2-shape-2.png')}}" alt="" class="cta-two__shape-2">
         <div class="container">
             <img src="{{asset('home/lassets/images/shapes/cta-2-shape-3.png')}}" alt="" class="cta-two__shape-3">
-            <img src="{{asset('home/img/dashboard.png')}}" alt="" class="cta-two__moc">
+            <img src="{{asset('home/img/dashboards.png')}}" alt="" class="cta-two__moc" style="width:700px;height: 500px;">
             <div class="row">
                 <div class="col-xl-5 col-lg-6">
                     <div class="cta-two__content">
