@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="icon" type="image/png" sizes="56x56" href="{{asset('home/images/'.$web->logo)}}">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="56x56" href="{{asset('home/images/'.$web->logo)}}">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title> {{$siteName}} | {{$pageName}}</title>
     <!-- plugin scripts -->
