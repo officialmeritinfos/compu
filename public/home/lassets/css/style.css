@@ -33,7 +33,7 @@
 
 :root {
 	--thm-font: 'Barlow', sans-serif;
-	--thm-base: #1434A4;
+	--thm-base: #4B0082;
 	--thm-base-rgb: 238, 70, 75;
 	--thm-black: #272839;
 	--thm-black-rgb: 39, 40, 57;
@@ -117,7 +117,7 @@ h6 {
 .block-title p {
 	margin: 0;
 	line-height: 1em;
-	color: #1434A4;
+	color: #4B0082;
 	font-weight: 500;
 	font-size: 18px;
 }
@@ -135,7 +135,7 @@ h6 {
 	vertical-align: middle;
 	border: none;
 	outline: none;
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 51%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 51%, #4B0082 100%);
 	text-align: center;
 	background-size: 200% auto;
 	border-radius: 5px;
@@ -439,7 +439,7 @@ h6 {
 
 .lds-ripple div {
 	position: absolute;
-	border: 4px solid #1434A4;
+	border: 4px solid #4B0082;
 	opacity: 1;
 	border-radius: 50%;
 	-webkit-animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
@@ -1085,7 +1085,7 @@ h6 {
 }
 
 .service-one__col:nth-child(4) .service-one__single i {
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 51%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 51%, #4B0082 100%);
 }
 
 .service-one__col:nth-child(5) .service-one__single i {
@@ -1622,7 +1622,7 @@ h6 {
 }
 
 .site-footer__social .fa-pinterest-p {
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 51%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 51%, #4B0082 100%);
 
 }
 
@@ -1726,7 +1726,7 @@ h6 {
 }
 
 .contact-one__infos-single:nth-child(3) .contact-one__infos-icon i {
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 100%);
 
 }
 
@@ -1915,7 +1915,7 @@ h6 {
 }
 
 .blog-one__meta li a i {
-	color: #1434A4;
+	color: #4B0082;
 	margin-right: 3px;
 }
 
@@ -1992,7 +1992,7 @@ h6 {
 
 .blog-one [class*=col-]:nth-child(2) .blog-one__image,
 .blog-one [class*=col-]:nth-child(2) .blog-one__link {
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 51%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 51%, #4B0082 100%);
 
 }
 
@@ -2044,7 +2044,7 @@ h6 {
 .blog-details__image {
 	margin-bottom: 20px;
 	padding: 10px;
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 51%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 51%, #4B0082 100%);
 }
 
 .blog-details__image>img {
@@ -2474,7 +2474,7 @@ h6 {
 }
 
 .side-menu__social .fa-pinterest-p {
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 51%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 51%, #4B0082 100%);
 
 }
 
@@ -2849,7 +2849,7 @@ h6 {
 }
 
 .faq-accrodion .accrodion.active .accrodion-title h4 {
-	color: #1434A4;
+	color: #4B0082;
 }
 
 .faq-accrodion .accrodion .accrodion-inner {
@@ -2935,7 +2935,7 @@ h6 {
 	transform: translateY(-50%);
 	opacity: 0;
 
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 100%);
 	transition: all 500ms ease;
 
 }
@@ -3081,7 +3081,7 @@ h6 {
 }
 
 .testimonials__one .testimonials__one__single h3 {
-	color: #1434A4;
+	color: #4B0082;
 	font-weight: 600;
 	font-size: 20px;
 	margin: 0;
@@ -3380,7 +3380,7 @@ h6 {
 .app-shot-one .app-shot-one__carousel .owl-dots .owl-dot:hover span,
 .app-shot-one .app-shot-one__carousel .owl-dots .owl-dot.active span {
 	opacity: 1;
-	background-color: #1434A4;
+	background-color: #4B0082;
 	-webkit-transform: scale(1.285);
 	transform: scale(1.285);
 }
@@ -3474,7 +3474,7 @@ h6 {
 }
 
 .pricing-one__list li i {
-	color: #1434A4;
+	color: #4B0082;
 	font-size: 14px;
 	margin-right: 5px;
 }
@@ -3679,7 +3679,7 @@ h6 {
 }
 
 .funfact-one [class*=col-]:nth-child(2) .funfact-one__single p::before {
-	background-image: linear-gradient(90deg, #1434A4 0%, #1434A4 100%);
+	background-image: linear-gradient(90deg, #4B0082 0%, #4B0082 100%);
 }
 
 .funfact-one [class*=col-]:nth-child(3) .funfact-one__single p::before {
